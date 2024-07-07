@@ -1,0 +1,8 @@
+file_format: "1"
+id: alik46
+name: alik46
+type: shield
+url: https://github.com/jimmerricks/swoop
+requires: [nrfmicro_13_52840]
+features:
+  - keys
