@@ -76,7 +76,7 @@
             layers = <0 1 2 3 4 5>;
         };
 
-        combo_lbkt {
+        combo_grave {
             timeout-ms = <50>;
             key-positions = <29 30>; // KP: RT
             bindings = <&mt GRAVE TILDE>; // ][ // 可以用CMD+这个单手返回到代码上一个编辑的地方 或者网页返回
