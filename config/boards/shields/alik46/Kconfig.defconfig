@@ -4,6 +4,6 @@
 if SHIELD_ALIK46
 
 config ZMK_KEYBOARD_NAME
-    default "ALIK46"
+    default "alik46"
 
 endif
